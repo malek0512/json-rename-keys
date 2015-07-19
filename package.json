@@ -1,0 +1,20 @@
+{
+  "name": "json-rename-keys",
+  "main":"lib/index.js",
+  "version":"1.0.0",
+  "description": "A package that allows you to rename all your object keys even the nested ones",
+  "keyword":"json rename keys",
+  "author": "Malek Mammar <malek.mammar@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/malek0512/json-rename-keys.git"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "mocha": "~2.2.5",
+    "chai": "~3.2.0"
+  },
+  "bugs": "https://github.com/malek0512/json-rename-keys/issues",
+  "engine": "node >= 0.4.7",
+  "license":"MIT"
+}
